@@ -20,7 +20,7 @@ Code: https://github.com/sszew/tidy_tuesday_sister_cities](https://github.com/ss
 - The R script was created with the assistance of Claude Sonnet 4.6 through Posit Assistant in RStudio.
 
 
-Source: https://github.com/sszew/tidy_tuesday_sister_cities
+Source: [https://github.com/sszew/tidy_tuesday_sister_cities](https://github.com/rfordatascience/tidytuesday/tree/main/data/2026/2026-05-12)
 
 
 
