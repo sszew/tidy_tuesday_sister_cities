@@ -16,7 +16,7 @@ World Map: https://2fzjfm-scottie-szewczyk.shinyapps.io/Sister_Cities_Map/
 
 
 
-Code: https://github.com/sszew/tidy_tuesday_sister_cities
+Code: https://github.com/sszew/tidy_tuesday_sister_cities](https://github.com/sszew/tidy_tuesday_sister_cities/blob/main/sister_cities.R
 - The R script was created with the assistance of Claude Sonnet 4.6 through Posit Assistant in RStudio.
 
 
