@@ -1,3 +1,4 @@
+<img width="1318" height="774" alt="sister_cities" src="https://github.com/user-attachments/assets/efe82d70-a963-4e22-ae15-2a49d0182cbc" />
 # tidy_tuesday_sister_cities
 Interactive world map depicting sister city relationships
 
