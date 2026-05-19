@@ -1,7 +1,7 @@
 # Tidy Tuesday: Sister Cities (May 12, 2026)
-- The R script was created with the assistance of Claude Sonnet 4.6 through Posit Assistant in RStudio.
-Interactive world map depicting sister city relationships
 
+Link to World Map: https://2fzjfm-scottie-szewczyk.shinyapps.io/Sister_Cities_Map/
+- The R script was created with the assistance of Claude Sonnet 4.6 through Posit Assistant in RStudio.
 ----------
 For #TidyTuesday this week, we are looking at global sister cities.
 
